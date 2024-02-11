@@ -54,15 +54,12 @@ Step 10: Share the insights and recommendations with relevant stakeholders using
 6. Average Weighted Price in Key Years: The analysis identifies key years with significant average weighted prices for Bitcoin, such as 2018 and 2020. These years experienced higher-than-average price levels, suggesting potential periods of growth and investment opportunities.
 
 # Recommendations:
-Long-term Investment Consideration: Given Bitcoin's significant increase in average weighted price from 2017 to 2021, investors with a long investment horizon and risk tolerance may consider holding Bitcoin for the long term. This strategy aligns with the potential for Bitcoin to serve as a store of value and hedge against inflation.
+1. Long-term Investment Consideration: Given Bitcoin's significant increase in average weighted price from 2017 to 2021, investors with a long investment horizon and risk tolerance may consider holding Bitcoin for the long term. This strategy aligns with the potential for Bitcoin to serve as a store of value and hedge against inflation.
 
-Utilizing Historical Price Levels: Historical data reveals that Bitcoin maintained its value above $3.8 billion for consecutive years (2017 to 2020), indicating potential support levels during price corrections. Investors can use these historical price levels as reference points for entry and exit strategies, helping to manage risk in their investment portfolios.
+2. Utilizing Historical Price Levels: Historical data reveals that Bitcoin maintained its value above $3.8 billion for consecutive years (2017 to 2020), indicating potential support levels during price corrections. Investors can use these historical price levels as reference points for entry and exit strategies, helping to manage risk in their investment portfolios.
 
-Diversification Strategy: While Bitcoin has shown strong performance, spreading investments across multiple cryptocurrencies can help manage risk and diversify investment portfolios. Investors should consider allocating funds to a diversified portfolio of cryptocurrencies to mitigate single-asset risk and capture potential upside opportunities in different market segments.
+3. Diversification Strategy: While Bitcoin has shown strong performance, spreading investments across multiple cryptocurrencies can help manage risk and diversify investment portfolios. Investors should consider allocating funds to a diversified portfolio of cryptocurrencies to mitigate single-asset risk and capture potential upside opportunities in different market segments.
 
-Strategic Investment Planning: Given the significant average weighted prices observed in key years such as 2018 and 2020, investors should strategically plan their investments based on historical price trends. By analyzing historical data and identifying potential periods of growth, investors can optimize their investment strategies and capitalize on favorable market conditions.
+4. Strategic Investment Planning: Given the significant average weighted prices observed in key years such as 2018 and 2020, investors should strategically plan their investments based on historical price trends. By analyzing historical data and identifying potential periods of growth, investors can optimize their investment strategies and capitalize on favorable market conditions.
 
-Monitoring Market Trends: Continuously monitoring market trends and analyzing historical data is essential for informed decision-making in the cryptocurrency market. Investors should stay updated on price movements, market sentiment, and regulatory developments to adapt their investment strategies accordingly and capitalize on emerging opportunities.
-
-
-
+5. Monitoring Market Trends: Continuously monitoring market trends and analyzing historical data is essential for informed decision-making in the cryptocurrency market. Investors should stay updated on price movements, market sentiment, and regulatory developments to adapt their investment strategies accordingly and capitalize on emerging opportunities.
