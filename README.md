@@ -10,6 +10,7 @@ Presentation: https://www.linkedin.com/posts/maria-imuede-a7230152_powerbi-activ
 ## Problem Statement
 
 The goal of this project is to analyze historical trends of Bitcoin from 2011 to 2021 using Power BI and provide insights and recommendations based on the data analysis. The analysis will focus on key metrics such as average weighted price, total currency volume exchanged, total volume of Bitcoin traded, highest and lowest prices, open and close price comparison, and average weighted price in key years. By examining these metrics, the objective is to gain a comprehensive understanding of Bitcoin's market performance over the decade and identify potential investment opportunities and strategies for stakeholders in the cryptocurrency market.
+Dataset provided by: https://www.linkedin.com/company/quantum-analytics-ng/
 
 ### Steps followed 
 
